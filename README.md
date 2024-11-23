@@ -18,7 +18,7 @@ Este repositório contém o código e os recursos utilizados para participar da 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/titanic-competition.git
+   git clone git@github.com:brenonevs/facprj-titanic.git
    cd titanic-competition
    ```
 
